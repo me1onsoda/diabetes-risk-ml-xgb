@@ -1,9 +1,3 @@
-`README.md` 파일을 바로 복사해서 사용하실 수 있도록, 제공해주신 `texct_scoreing.py` 코드의 내용을 바탕으로 상세하게 작성해 드립니다.
-
-이 문서는 프로젝트의 목적, 데이터 처리 방식, 모델링 기법(XGBoost & 단조 제약 조건), 그리고 점수 산출 로직을 포함하고 있습니다.
-
------
-
 ````markdown
 # Diabetes Risk Analysis with XGBoost (Diet-Based)
 
